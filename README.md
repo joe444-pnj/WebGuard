@@ -2,8 +2,7 @@ WebGuard is an automated web vulnerability scanner that can detect various vulne
 Installation
 
     Clone the repository:
-
-git clone https://github.com/yourusername/WebGuard.git
+git clone https://github.com/joe444-pnj/WebGuard.git
 cd WebGuard
 
 Install dependencies:
